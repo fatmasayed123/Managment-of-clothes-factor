@@ -1,2 +1,2 @@
 # Managment-of-clothes-factor
-Our Team:
+Our Team: FatmaElzahraa Sayed & Naglaa Kamal & Walaa Ramadan & Sohier Elsaman
