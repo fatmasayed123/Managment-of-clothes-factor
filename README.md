@@ -13,7 +13,8 @@ C#
 
 # Tools: 
 
-Visual Studio & SQL
+* Visual Studio 
+* SQL
 
 # TimeLine Plane: 
 * create Database  20/3/2020    1/4/2020
